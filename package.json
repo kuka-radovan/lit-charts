@@ -1,0 +1,18 @@
+{
+  "name": "lit-charts",
+  "version": "0.1.0",
+  "description": "Declarative way of creating beautiful svg charts powered by lit-element",
+  "keywords": [
+    "charts",
+    "lit-html",
+    "lit-element",
+    "web-components"
+  ],
+  "author": "Radovan Kuka <kuka.radovan@gmail.com> (https://radovankuka.com/)",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {},
+  "peerDependencies": {
+    "lit-element": "2.x.x"
+  }
+}
